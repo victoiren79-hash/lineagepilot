@@ -1,0 +1,7 @@
+acryl-datahub
+datahub-agent-context
+PyGithub
+requests
+python-dotenv
+confluent-kafka
+pyyaml

@@ -1,0 +1,2 @@
+# Used by watcher.py as its Kafka consumer group name.
+name: "schema_change_detector"
