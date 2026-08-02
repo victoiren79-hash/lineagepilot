@@ -3,5 +3,5 @@
 select
     user_id,
     order_id,
-    order_total
+    order_sum as order_total
 from raw_orders_v2
